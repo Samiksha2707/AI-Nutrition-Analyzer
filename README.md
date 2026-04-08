@@ -1,4 +1,5 @@
 🥗 AI Nutrition Analyzer
+
 An intelligent web application that analyzes the nutritional content of food items using text input or image upload.
 Built with Flask, Tailwind CSS, and AI-based analysis.
 

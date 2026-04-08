@@ -40,21 +40,6 @@ AI Integration
 - Nutrition estimation logic/API
 
 
-📁 Project Structure
-AI-Nutrition-Analyzer/
-│
-├── static/
-│   ├── js/
-│   │   └── script.js
-│   └── css/
-│
-├── templates/
-│   └── index.html
-│
-├── app.py
-├── requirements.txt
-└── README.md
-
 
 ⚙️ Installation & Setup
  1. Clone the repository
@@ -91,16 +76,4 @@ http://127.0.0.1:5000/
 7) Click Analyze Image
 8) View detected food and nutrition
    
-🔮 Future Enhancements
-🍽️ Meal recommendations
-📱 Mobile app version
-🔍 Barcode scanning
-🧠 Advanced AI models
-📊 Charts using Chart.js
 
-🤝 Contributing
-✔ Fork the repository
-✔ Create a new branch
-✔ Commit your changes
-✔ Push to GitHub
-✔ Create a Pull Requestequest

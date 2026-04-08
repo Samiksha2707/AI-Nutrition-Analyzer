@@ -83,6 +83,7 @@ Click Analyze Image
 AI detects food and shows nutrition data
 
 🔮 Future Enhancements
+
 🍽️ Meal recommendations
 📱 Mobile app version
 🔍 Barcode scanning

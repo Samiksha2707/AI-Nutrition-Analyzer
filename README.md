@@ -41,23 +41,22 @@ AI Integration
 
 
 📁 Project Structure
- 
- AI-Nutrition-Analyzer/
+AI-Nutrition-Analyzer/
 │
 ├── static/
-│ ├── js/
-│ │ └── script.js
-│ └── css/
+│   ├── js/
+│   │   └── script.js
+│   └── css/
 │
 ├── templates/
-│ └── index.html
+│   └── index.html
 │
 ├── app.py
 ├── requirements.txt
 └── README.md
 
-⚙️ Installation & Setup
 
+⚙️ Installation & Setup
  1. Clone the repository
 bash
 git clone https://github.com/Samiksha2707/ai-nutrition-analyzer.git
@@ -93,14 +92,15 @@ http://127.0.0.1:5000/
 8) View detected food and nutrition
    
 🔮 Future Enhancements
-👉 Meal recommendations
-👉 Mobile app version
-👉 Barcode scanning
-👉 Advanced AI models
-👉 Charts using Chart.js
+🍽️ Meal recommendations
+📱 Mobile app version
+🔍 Barcode scanning
+🧠 Advanced AI models
+📊 Charts using Chart.js
 
 🤝 Contributing
-✔  Fork the repo
+✔ Fork the repository
 ✔ Create a new branch
-✔  Commit changes
-✔  Push and create Pull Request
+✔ Commit your changes
+✔ Push to GitHub
+✔ Create a Pull Requestequest

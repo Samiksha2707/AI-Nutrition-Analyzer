@@ -19,14 +19,13 @@ An intelligent web application that analyzes the nutritional content of food ite
 - Fat
 - Sugar
 
- 📈 Visual Nutrition Distribution
+📈 Visual Nutrition Distribution
 - Clean and responsive UI
 - Easy-to-understand breakdown
 
 
 
- 🛠️ Tech Stack
-
+🛠️ Tech Stack
 Frontend
 - HTML5
 - Tailwind CSS
@@ -41,8 +40,7 @@ AI Integration
 - Nutrition estimation logic/API
 
 
-
- 📁 Project Structure
+📁 Project Structure
  
  AI-Nutrition-Analyzer/
 │
@@ -60,14 +58,15 @@ AI Integration
 
 ⚙️ Installation & Setup
 
-### 1. Clone the repository
+ 1. Clone the repository
 bash
 git clone https://github.com/Samiksha2707/ai-nutrition-analyzer.git
 cd ai-nutrition-analyzer
+
 2. Create virtual environment
 python -m venv venv
-3. Activate environment
 
+3. Activate environment
 Windows
 venv\Scripts\activate
 
